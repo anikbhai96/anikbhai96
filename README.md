@@ -1,16 +1,16 @@
 # 💫 About Me:
-Hlwa ajflkasdjf asj fasklfalksnf kasldjf lksf
+# 👋 Hi, I'm Mainul Hossain Anik<br><br>🎓 Computer Science Student  <br>💻 Passionate about Full-Stack Development and Software Engineering  <br>🚀 Building projects, solving problems, and learning something new every day.  <br>🌍 I believe great software can make a real difference.<br><br>✨ My goal is simple: leave a legacy in Computer Science and Engineering.
 
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=flat&logo=Apache+Groovy&logoColor=white) ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=flat&logo=assemblyscript&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![Clojure](https://img.shields.io/badge/Clojure-%23Clojure.svg?style=flat&logo=Clojure&logoColor=Clojure) ![Crystal](https://img.shields.io/badge/crystal-%23000000.svg?style=flat&logo=crystal&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Dgraph](https://img.shields.io/badge/dgraph-%23E50695.svg?style=flat&logo=dgraph&logoColor=white) ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=flat&logo=elixir&logoColor=white) ![Elm](https://img.shields.io/badge/Elm-60B5CC?style=flat&logo=elm&logoColor=white) ![Erlang](https://img.shields.io/badge/Erlang-white.svg?style=flat&logo=erlang&logoColor=a90533) ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=flat&logo=fortran&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=anikbhai96&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=anikbhai96&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=anikbhai96&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=anikbhai96&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=anikbhai96&limit=5&theme=dark&combine_all_yearly_contributions=true)
