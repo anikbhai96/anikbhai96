@@ -93,13 +93,13 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://github.com/riyan069" target="_blank">
+  <a href="https://github.com/anikbhai96" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/mainul-hossain-anik" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://www.facebook.com/YOUR-FACEBOOK-USERNAME" target="_blank">
+  <a href="https://www.facebook.com/mainulanikmain" target="_blank">
     <img src="https://skillicons.dev/icons?i=facebook" />
   </a>
   <a href="https://www.instagram.com/YOUR-INSTAGRAM-USERNAME" target="_blank">
