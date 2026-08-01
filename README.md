@@ -153,10 +153,13 @@
     <img src="https://skillicons.dev/icons?i=stackoverflow" />
   </a>
 <a href="https://www.facebook.com/mainulanikmain" target="_blank">
-    <img src="https://skillicons.dev/icons?i=Facebook" />
+    <img src="https://skillicons.dev/icons?i=discord" />
   </a>
   <a href="https://www.instagram.com/YOUR-m.anikbhai96" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="https://www.facebook.com/mainulanikmain" target="_blank">
+    <img src="https://skillicons.dev/icons?i=" />
   </a>
 </p>
 
