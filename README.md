@@ -159,7 +159,7 @@
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
   <a href="https://www.facebook.com/mainulanikmain" target="_blank">
-    <img src="https://skillicons.dev/icons?i=" />
+    <img src="https://skillicons.dev/icons?i=reddit" />
   </a>
 </p>
 
