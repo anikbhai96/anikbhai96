@@ -121,7 +121,7 @@
     <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" />
   </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=" />
+    <img src="https://skillicons.dev/icons?i=oracle" />
   </a>
 </p>
 ---
