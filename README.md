@@ -29,7 +29,7 @@
   </a>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c" />
+    <img src="https://skillicons.dev/icons?i=C" />
   </a>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp" />
