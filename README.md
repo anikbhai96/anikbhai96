@@ -13,7 +13,7 @@
 - 🌱 I’m learning and improving my Full-Stack Development skills
 - 💻 I enjoy building web applications, management systems, and useful student platforms
 - 🧠 I’m interested in Frontend, Backend, Database, and Problem Solving
-- 💬 Ask me about HTML, CSS, Java, Spring Boot, Swing, JavaScript, React, MySQL, PostgreSQL
+- 💬 Ask me about Python, C, C++, Java, MySQL, Oracle, HTML, CSS, JavaScript, React
 - 📫 Reach me at mainulanik2004@gmail.com
 
 ---
