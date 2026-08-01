@@ -21,14 +21,14 @@
 ### 🚀 Tech Stack
 
 <p align="center">
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+  </a>
   <a href="https://www.java.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=java" alt="Java" />
   </a>
   <a href="https://spring.io/projects/spring-boot" target="_blank">
     <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" />
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=python" alt="Python" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
@@ -94,14 +94,16 @@
 
 ### 🌐 Connect with Me
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/anikbhai96" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
   <a href="https://www.linkedin.com/in/mainul-hossain-anik" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
- 
+  <a href="https://stackoverflow.com/users/32992158/anonymous-man" target="_blank">
+    <img src="https://skillicons.dev/icons?i=stackoverflow" />
+  </a>
 <a href="https://www.facebook.com/mainulanikmain" target="_blank">
     <img src="https://skillicons.dev/icons?i=facebook" />
   </a>
