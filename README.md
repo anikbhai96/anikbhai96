@@ -53,6 +53,14 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
   </a>
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react" />
+  </a>
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=" />
+  </a>
   <a href="https://getbootstrap.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" />
   </a>
