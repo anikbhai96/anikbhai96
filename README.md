@@ -27,6 +27,10 @@
   <a href="https://www.djangoproject.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=django" alt="django" />
   </a>
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c" />
+  </a>
   
   <a href="https://www.java.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=java" alt="Java" />
