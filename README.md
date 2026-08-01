@@ -31,6 +31,9 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c" />
   </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp" />
+  </a>
   
   <a href="https://www.java.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=java" alt="Java" />
