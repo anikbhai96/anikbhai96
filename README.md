@@ -20,7 +20,7 @@
 
 ### 🚀 Tech Stack
 
-<p align="left">
+<p align="center">
   <a href="https://www.java.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=java" alt="Java" />
   </a>
