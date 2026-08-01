@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mainul Hossain Anik</h1>
 
-<h3 align="center">Passionate Software Engineer & Full-Stack Developer <sub>BD</sub>
+<h3 align="center">Passionate Software Engineer & Full-Stack Developer <sup>BD</sup>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=riyan069&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
