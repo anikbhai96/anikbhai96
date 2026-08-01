@@ -153,11 +153,8 @@
     <img src="https://skillicons.dev/icons?i=stackoverflow" />
   </a>
 <a href="https://www.facebook.com/mainulanikmain" target="_blank">
-    <img src="https://skillicons.dev/icons?i=facebook" />
+    <img src="https://skillicons.dev/icons?i=Facebook" />
   </a>
-<a href="https://www.facebook.com/mainulanikmain" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-</a>
   <a href="https://www.instagram.com/YOUR-m.anikbhai96" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
