@@ -118,7 +118,7 @@
     <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
   </a>
   <a href="https://ubuntu.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" />
+    <img src="https://skillicons.dev/icons?i=kali" alt="kali" />
   </a>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=oracle" />
