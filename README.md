@@ -79,7 +79,7 @@
   </a>
   </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=next.js" />
+    <img src="https://skillicons.dev/icons?i=nextjs" />
   </a>
   <a href="https://vuejs.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" />
